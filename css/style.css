@@ -1,0 +1,19 @@
+.img-item
+{
+    width: 20%;
+    float: left;
+    cursor: pointer;
+    box-shadow: 20px;
+}
+.img-item:hover
+{
+    padding: 5px;
+}
+.test
+{
+    margin-top: 3rem;
+}
+.bg-col
+{
+    background-color: #aaa;
+}
